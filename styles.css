@@ -1,0 +1,16 @@
+header {
+        position: fixed;
+    top: 0;
+    min-height: 75px;
+    display: block
+;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #eee;
+    unicode-bidi: isolate;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
